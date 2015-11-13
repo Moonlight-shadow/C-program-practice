@@ -1,5 +1,5 @@
 /*************************************************************************
-	> File Name: 2.c
+	> File Name: Copy.c
 	> Author: Shoery
 	> Mail: GfengWong@gamil.com 
 	> Created Time: Mon 09 Nov 2015 06:45:18 PM CST
