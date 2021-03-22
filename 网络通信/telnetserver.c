@@ -1,4 +1,4 @@
-# 摘自https://love.junzimu.com/archives/1116
+// 摘自https://love.junzimu.com/archives/1116
 
 #include <stdio.h>
 #include <stdlib.h>
